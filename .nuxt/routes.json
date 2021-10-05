@@ -1,0 +1,8 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\NUXT\\\\nuxt-chat\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
